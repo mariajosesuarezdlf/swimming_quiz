@@ -1,3 +1,7 @@
+print("==============================")
+print("      Are You a Real Swimmer?")
+print("==============================\n")
+
 # Class to represent each quiz question
 class Question:
     def __init__(self, prompt, answer):
